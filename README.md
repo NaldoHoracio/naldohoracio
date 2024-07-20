@@ -33,44 +33,18 @@ Here are some ideas to get you started:
 
 ## 📍 Technical Skills, Frameworks, Languagens, Tools and Libraries Experience ⚙️
 
-<div style="display: inline"><br>
-  <img align="center" alt="Ed-Anaconda" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original-wordmark.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original-wordmark.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original-wordmark.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
-  <img align="center" alt="Ed-" height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original-wordmark.svg"/>
-  <!-- <img align="center" alt="Ed-" height="40", width="40" src=""/>
-  <img align="center" alt="Ed-" height="40", width="40" src=""/>
-  <img align="center" alt="Ed-" height="40", width="40" src=""/> -->
-</div>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="Cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown" />
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 
 
