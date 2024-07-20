@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏾‍🎓 I’m Master Student (UFAL).
+- 👨🏾‍🎓 I’m Master Student (UFAL)
 - 🎓 I'm Computer Engineer (UFAL)
 - ✉️ Contact: edvonaldohoracio@gmail.com
 - 😄 Pronouns: He/Him
 
 <div>
   <a href="https://beacons.ai/naldohoracio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naldohoracio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naldohoracio&layout=compact&langs_count=16&theme=dracula" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=naldohoracio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naldohoracio&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
 ## 💭 About Me
