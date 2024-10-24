@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏾‍🎓 I’m Master Student (UFAL)
+- 👨🏾‍🎓 I’m Master in Informatics (UFAL)
 - 🎓 I'm Computer Engineer (UFAL)
 - ✉️ Contact: edvonaldohoracio@gmail.com
 - 😄 Pronouns: He/Him
