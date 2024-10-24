@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 💭 About Me
- I'm Master candidate in Informatics at the UFAL. I'm graduated in Computer Engineer (UFAL). I have interesting for Artificial Intellinge and Software Engineering. I like learning new things and improving old ones
+ I'm Master in Informatics at the UFAL (2024) and graduated in Computer Engineer at the UFAL (2021). I have interesting for Artificial Intellinge and Software Engineering. I like learning new things and improving old ones
 
 #### "If one day I could see further, it's because I climbed on the shoulders of giants" (Isaac Newton)
 
