@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 👨🏾‍🎓 I’m Master in Informatics (UFAL)
 - 🎓 I'm Computer Engineer (UFAL)
 - ✉️ Contact: edvonaldohoracio@gmail.com
+- 🌐 Linkedin: [Edvonaldo Horácio] (https://www.linkedin.com/in/edvonaldo-hor%C3%A1cio/)
 - 😄 Pronouns: He/Him
 
 <div>
@@ -27,24 +28,59 @@ Here are some ideas to get you started:
 </div>
 
 ## 💭 About Me
- I'm Master in Informatics at the UFAL (2024) and graduated in Computer Engineer at the UFAL (2021). I have interesting for Artificial Intellinge (ML and DL models), Data Science and Software Engineering. I like learning new things and improving old ones
+ I'm Master in Informatics at the UFAL (2024) and graduated in Computer Engineer at the UFAL (2021). I have interesting for Artificial Intellinge (ML and DL models), Data Science and Software Engineering. I like learning new things and improving old ones.
 
 #### "If one day I could see further, it's because I climbed on the shoulders of giants" (Isaac Newton)
 
 ## 📍 Technical Skills, Frameworks, Languagens, Tools and Libraries Experience ⚙️
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="Cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown" />
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <!-- Languages !-->
+  <img Alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img Alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+  <img Alt="Cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img Alt="R" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+  <img Alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img Alt="Matlab" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+  <img Alt="Tex" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" />          
+  <!-- Versioner tools !-->
+  <img Alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+  <img Alt="Github" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img Alt="Gitlab" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+  
+  <!-- IDEs and Frameworks !-->
+  <img Alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img Alt="RStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+  <img Alt="Anaconda" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />  
+  <img Alt="CMake" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" />
+  <img Alt="Eclipse" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  <img Alt="Jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img Alt="Latex" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+  <img Alt="PyCharm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+  <img Alt="Qt" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" /> 
+  <img Alt="Spyder" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" />
+          
+          
+  <!-- Libraries, Packages and Frameworks !-->
+  <img Alt="Matplotlib" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+  <img Alt="Numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+  <img Alt="PyTorch" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+          
+  <img Alt="OpenCV" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
+  
+          
+                  
+  <!-- SOs !-->
+  <img Alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+          
+          
+          
+                                 
+          
 </p>
+
+## 🗣️ Know Languages
+🇧🇷 Portuguese (Native) | 🇺🇸 English (Intermediate)
 
 
 
