@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   <img Alt="Scikitlearn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
   <img Alt="TensorFlow" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
   <img Alt="Keras" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" />
-  <img Alt="PyTorch" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+  <img Alt="PyTorch" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" />
   <img Alt="OpenCV" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
   <img Alt="Pandas" height="50" width="50" src="https://github.com/pandas-dev/pandas/blob/main/web/pandas/static/img/pandas_secondary_white.svg" />
           
