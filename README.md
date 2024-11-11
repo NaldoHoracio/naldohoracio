@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ✉️ Contact: edvonaldohoracio@gmail.com
 - 🌐 Linkedin: [Edvonaldo Horácio](https://www.linkedin.com/in/edvonaldo-hor%C3%A1cio/)
 - 😄 Pronouns: He/Him
-- 📚 I’m currently improving my skills in Web Development, Web Scraping and Data Science.
+- 📚 I’m currently improving my skills in Web Development, Web Scraping and Data Science, usin Python and R languages.
 
 <div>
   <a href="https://beacons.ai/naldohoracio">
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 💭 About Me
- I'm Master in Informatics at the UFAL (2024) and graduated in Computer Engineer at the UFAL (2021). I have interesting for Artificial Intellinge (ML and DL models), Data Science and Software Engineering. I like learning new things and improving old ones.
+ I'm Master in Informatics at the UFAL and graduated in Computer Engineer at the UFAL. I have interesting for Artificial Intellinge (ML and DL models), Data Science and Software Engineering. 
 
 #### "If one day I could see further, it's because I climbed on the shoulders of giants" (Isaac Newton)
 
@@ -78,17 +78,19 @@ Here are some ideas to get you started:
   <img Alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
   <!-- Others !-->
-  <img Alt="Canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-          
-          
-          
-          
-                                 
+  <img Alt="Canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />                   
           
 </p>
 
+* C++ libraries: STL, OpenCV
+* General Python libraries: NumPy, Pandas, SciPy.
+* Python libraries for visualization: Matplotlib, Seaborn, OpenCV.
+* Python for Machine Learning and Deep Learning: Scikit-learn, Tensor Flow, Keras and PyTorch.
+
 ## 🗣️ Know Languages
 🇧🇷 Portuguese (Native) | 🇺🇸 English (Intermediate)
+
+I like to always be learning new things and reviewing old ones, in addition to knowing that solid knowledge is built collaboratively.
 
 
 
