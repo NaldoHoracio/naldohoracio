@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👨🏾‍🎓 I’m Master in Informatics (UFAL)
 - 🎓 I'm Computer Engineer (UFAL)
 - ✉️ Contact: edvonaldohoracio@gmail.com
-- 🌐 Linkedin: [Edvonaldo Horácio] (https://www.linkedin.com/in/edvonaldo-hor%C3%A1cio/)
+- 🌐 Linkedin: [Edvonaldo Horácio](https://www.linkedin.com/in/edvonaldo-hor%C3%A1cio/)
 - 😄 Pronouns: He/Him
 - 📚 I’m currently improving my skills in Web Development, Web Scraping and Data Science.
 
