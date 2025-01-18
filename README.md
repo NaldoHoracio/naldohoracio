@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 - ✉️ Contact: edvonaldohoracio@gmail.com
 - 🌐 Linkedin: [Edvonaldo Horácio](https://www.linkedin.com/in/edvonaldo-hor%C3%A1cio/)
 - 😄 Pronouns: He/Him
-- 📚 I’m currently improving my skills in Web Development, Web Scraping and Data Science, usin Python and R languages.
+- 📚 I’m currently improving my skills in IA and Data Science using Python and R languages.
 
 I like to always be learning new things and reviewing old ones, in addition to knowing that solid knowledge is built collaboratively.
 
