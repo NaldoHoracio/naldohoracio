@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img Alt="R" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
   <img Alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img Alt="Matlab" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
-  <img Alt="SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <!-- <img Alt="SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> --!>
                    
   <!-- Versioner tools !-->
   <img Alt="Git" height="50" width="50" src="https://git-scm.com/images/logos/downloads/Git-Logo-White.svg" />
@@ -84,15 +84,16 @@ Here are some ideas to get you started:
 * Python for Machine Learning and Deep Learning: Scikit-learn, Tensor Flow, Keras and PyTorch.
 
 ## 🗣️ Know Languages
-🇧🇷 Portuguese (Native) | 🇺🇸 English (Intermediate)
+🇧🇷 Portuguese (Native) | <!-- 🇺🇸 English (Intermediate) !-->
 
 ## 💬 Contact Me by:
 - ✉️ Contact: edvonaldohoracio@gmail.com
 - 🌐 Linkedin: [Edvonaldo Horácio](https://www.linkedin.com/in/edvonaldo-hor%C3%A1cio/)
 - 😄 Pronouns: He/Him
-- 📚 I’m currently improving my skills in IA and Data Science using Python and R languages.
+- 📚 I’m currently improving my skills in IA (Machine Learning and Deep Learning) and Data Science using Python and R languages.
 
 I like to always be learning new things and reviewing old ones, in addition to knowing that solid knowledge is built collaboratively.
+In free time I like of reading, listening music (christian song, rock and MPB), talking, exercising and watching movies.
 
 
 
