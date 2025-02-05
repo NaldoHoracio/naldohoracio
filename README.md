@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 #### "If one day I could see further, it's because I climbed on the shoulders of giants" (Isaac Newton)
 
 ## 📍 Technical Skills, Frameworks, Languagens, Tools and Libraries Experience ⚙️
-
-<p>
+<div style="background-color: #282c34; color: white;">
+  <p>
   <!-- Languages !-->
   <img Alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img Alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
@@ -73,10 +73,12 @@ Here are some ideas to get you started:
   <!-- SOs !-->
   <img Alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-  <!-- Others !-->
+    <!-- Others !-->
   <img Alt="Canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />                   
           
-</p>
+  </p>
+</div>
+
 
 * C++ libraries: STL, OpenCV
 * General Python libraries: NumPy, Pandas, SciPy.
