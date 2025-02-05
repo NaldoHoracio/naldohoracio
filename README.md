@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 #### "If one day I could see further, it's because I climbed on the shoulders of giants" (Isaac Newton)
 
 ## 📍 Technical Skills, Frameworks, Languagens, Tools and Libraries Experience ⚙️
-<p>
+<p style="background-color: white;">
   <!-- Languages !-->
   <img Alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img Alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
