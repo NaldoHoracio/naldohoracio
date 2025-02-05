@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <img Alt="CMake" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" />
   <img Alt="Eclipse" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
   <img Alt="Jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img Alt="Latex" height="50" width="50" src="https://github.com/NaldoHoracio/icons-git/blob/main/latex-svgrepo-com.svg" />
+  <img Alt="Latex" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
   <img Alt="PyCharm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
   <img Alt="Qt" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" /> 
   <img Alt="Spyder" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" />          
