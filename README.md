@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   <img Alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
     <!-- Others !-->
-  <img Alt="Canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />                   
+  <!-- <img Alt="Canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />!-->
           
 </p>
 
@@ -92,8 +92,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - 📚 I’m currently improving my skills in IA (Machine Learning and Deep Learning) and Data Science using Python and R languages.
 
-I like to always be learning new things and reviewing old ones, in addition to knowing that solid knowledge is built collaboratively.
-In free time I like of reading, listening music (christian song, rock and MPB), talking, exercising and watching movies.
+### I like to always be learning new things and reviewing old ones, in addition to knowing that solid knowledge is built collaboratively.
+### In free time I like of reading, listening music (christian song, rock and MPB), talking, exercising and watching movies.
 
 
 
