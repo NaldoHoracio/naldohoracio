@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 💭 About Me
- I'm Master in Informatics at the UFAL and graduated in Computer Engineer at the UFAL. I have interesting for Artificial Intellinge (ML and DL models), Data Science and Software Engineering. 
+ I'm Master in Informatics at the UFAL and graduated in Computer Engineer at the UFAL. I have interesting for Artificial Intellinge (ML and DL models) and Data Science.
 
 #### "If one day I could see further, it's because I climbed on the shoulders of giants" (Isaac Newton)
 
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
   <img Alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
   <img Alt="Cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img Alt="R" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-  <img Alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img Alt="Matlab" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+  <!-- <img Alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> --!>
+  <!-- <img Alt="Matlab" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" /> --!>
   <!-- <img Alt="SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> --!>
                    
   <!-- Versioner tools !-->
@@ -50,10 +50,10 @@ Here are some ideas to get you started:
   <img Alt="RStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
   <img Alt="Anaconda" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />  
   <img Alt="CMake" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" />
-  <img Alt="Eclipse" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  <!-- <img Alt="Eclipse" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" /> !-->
   <img Alt="Jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
   <img Alt="Latex" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
-  <img Alt="PyCharm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+  <!-- <img Alt="PyCharm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" /> !-->
   <img Alt="Qt" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" /> 
   <img Alt="Spyder" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" />          
           
@@ -84,7 +84,8 @@ Here are some ideas to get you started:
 * Python for Machine Learning and Deep Learning: Scikit-learn, Tensor Flow, Keras and PyTorch.
 
 ## 🗣️ Know Languages
-🇧🇷 Portuguese (Native) | <!-- 🇺🇸 English (Intermediate) !-->
+🇧🇷 Portuguese (Native) | 
+🇺🇸 English (Intermediate) 
 
 ## 💬 Contact Me by:
 - ✉️ Contact: edvonaldohoracio@gmail.com
