@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <p style="background-color: white;">
   <!-- Languages !-->
   <img Alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img Alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+  <img Alt="C" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
   <img Alt="Cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img Alt="R" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
   <!-- <img Alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> --!>
@@ -41,9 +41,9 @@ Here are some ideas to get you started:
   <!-- <img Alt="SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> --!>
                    
   <!-- Versioner tools !-->
-  <img Alt="Git" height="50" width="50" src="https://git-scm.com/images/logos/downloads/Git-Logo-White.svg" />
-  <img Alt="Github" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  <img Alt="Gitlab" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+  <img Alt="Git" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />
+  <img Alt="Github" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
+  <img Alt="Gitlab" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" />
   
   <!-- IDEs and Frameworks !-->
   <img Alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <img Alt="CMake" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" />
   <!-- <img Alt="Eclipse" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" /> !-->
   <img Alt="Jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img Alt="Latex" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+  <img Alt="Latex" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" />
   <!-- <img Alt="PyCharm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" /> !-->
   <img Alt="Qt" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" /> 
   <img Alt="Spyder" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" />          
@@ -81,17 +81,18 @@ Here are some ideas to get you started:
 * C++ libraries: STL, OpenCV
 * General Python libraries: NumPy, Pandas, SciPy.
 * Python libraries for visualization: Matplotlib, Seaborn, OpenCV.
-* Python for Machine Learning and Deep Learning: Scikit-learn, Tensor Flow, Keras and PyTorch.
+* Python for Machine Learning and Deep Learning: scikit-learn, Tensor Flow, Keras and PyTorch.
+* R language packages: tidyverse, dplyr, tidyr, readr, data.table
 
 ## 🗣️ Know Languages
 🇧🇷 Portuguese (Native) | 
-🇺🇸 English (Intermediate) 
+🇺🇸 English ([B1 level](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)) 
 
 ## 💬 Contact Me by:
 - ✉️ Contact: edvonaldohoracio@gmail.com
 - 🌐 Linkedin: [Edvonaldo Horácio](https://www.linkedin.com/in/edvonaldo-hor%C3%A1cio/)
 - 😄 Pronouns: He/Him
-- 📚 I’m currently improving my skills in IA (Machine Learning and Deep Learning) and Data Science using Python and R languages.
+- 📚 My main areas of expertise are Machine Learning (including Deep Learning), Data Science, and Software Development.
 
 ### I like to always be learning new things and reviewing old ones, in addition to knowing that solid knowledge is built collaboratively.
 ### In free time I like of reading, listening music (christian song, rock and MPB), talking, exercising and watching movies.
