@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 💭 About Me
- I'm Master in Informatics at the UFAL and graduated in Computer Engineer at the UFAL. I have interesting for Artificial Intellinge (ML and DL models) and Data Science.
+ I'm Master in Informatics at the UFAL and graduated in Computer Engineer at the UFAL. I have interesting for Artificial Intellinge (ML and DL models), Data Science and Software Development.
 
 #### "If one day I could see further, it's because I climbed on the shoulders of giants" (Isaac Newton)
 
@@ -94,8 +94,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - 📚 My main areas of expertise are Machine Learning (including Deep Learning), Data Science, and Software Development.
 
-### I like to always be learning new things and reviewing old ones, in addition to knowing that solid knowledge is built collaboratively.
-### In free time I like of reading, listening music (christian song, rock and MPB), talking, exercising and watching movies.
+I like to always be learning new things and reviewing old ones, in addition to knowing that solid knowledge is built collaboratively.
+
+In free time I like of reading, listening music (christian song, rock and MPB), talking, exercising and watching movies.
 
 
 
