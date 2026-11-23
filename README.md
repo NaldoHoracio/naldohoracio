@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 💭 About Me
- I'm Master in Informatics at the UFAL and graduated in Computer Engineer at the UFAL. I have interesting for Artificial Intellinge (ML and DL models), Data Science and Software Development.
+ I'm Master in Informatics at the UFAL and graduated in Computer Engineer at the UFAL. I have interesting for Artificial Intellinge (ML and DL applications), Data Science and Software Development.
 
 #### "If one day I could see further, it's because I climbed on the shoulders of giants" (Isaac Newton)
 
